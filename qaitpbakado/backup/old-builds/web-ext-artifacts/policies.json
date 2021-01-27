@@ -1,0 +1,11 @@
+{
+	"policies": {
+		"DisableAppUpdate": true,
+		"ExtensionSettings": {
+			"48b3094f-f498-4148-85c7-093464f95b90": {
+				"installation_mode": "force_installed",
+				"install_url": "file:////home/giangvdm/code/akaDO/qaitpbakado/web-ext-artifacts/akado-1.0-an+fx.xpi"
+			}
+		}
+	}
+}
