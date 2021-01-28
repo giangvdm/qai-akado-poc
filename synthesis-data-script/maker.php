@@ -64,7 +64,7 @@ const TIME_RANGE = [
     [8, 11],
     [13, 16]
 ];
-const MAX_RECORD = 1000;
+const MAX_RECORD = 10000;
 
 /**
  * INITIATION
@@ -86,9 +86,9 @@ while (!in_array($writeMode, ['a', 'w'], true));
 
 /** Get number of records (processes) */
 do {
-    $limit = readline("Number of Processes (0 < x < " . MAX_RECORD . "): ");
+    $limit = readline("Number of Processes (0 < x <= " . MAX_RECORD . "): ");
 }
-while ($limit <= 0 || $limit >= 1000);
+while ($limit <= 0 || $limit > MAX_RECORD);
 
 /** Open and write columns */
 $fp = fopen($fileName, $writeMode);
