@@ -1,0 +1,10 @@
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Release\netcoreapp3.1\akaSensor.Windows.deps.json
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Release\netcoreapp3.1\akaSensor.Windows.dll
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Release\netcoreapp3.1\akaSensor.Windows.pdb
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensor.Windows\obj\Release\netcoreapp3.1\akaSensor.Windows.csprojAssemblyReference.cache
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensor.Windows\obj\Release\netcoreapp3.1\akaSensor.Windows.AssemblyInfoInputs.cache
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensor.Windows\obj\Release\netcoreapp3.1\akaSensor.Windows.AssemblyInfo.cs
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensor.Windows\obj\Release\netcoreapp3.1\akaSensor.Windows.csproj.CoreCompileInputs.cache
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensor.Windows\obj\Release\netcoreapp3.1\akaSensor.Windows.csproj.CopyComplete
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensor.Windows\obj\Release\netcoreapp3.1\akaSensor.Windows.dll
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensor.Windows\obj\Release\netcoreapp3.1\akaSensor.Windows.pdb

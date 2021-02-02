@@ -1,0 +1,16 @@
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Debug\netcoreapp3.1\nlog.config
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Debug\netcoreapp3.1\akaSensorAgent.exe
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Debug\netcoreapp3.1\akaSensorAgent.dll.config
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Debug\netcoreapp3.1\akaSensorAgent.deps.json
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Debug\netcoreapp3.1\akaSensorAgent.runtimeconfig.json
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Debug\netcoreapp3.1\akaSensorAgent.runtimeconfig.dev.json
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Debug\netcoreapp3.1\akaSensorAgent.dll
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Debug\netcoreapp3.1\akaSensorAgent.pdb
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensorAgent\obj\Debug\netcoreapp3.1\akaSensorAgent.csprojAssemblyReference.cache
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensorAgent\obj\Debug\netcoreapp3.1\akaSensorAgent.AssemblyInfoInputs.cache
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensorAgent\obj\Debug\netcoreapp3.1\akaSensorAgent.AssemblyInfo.cs
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensorAgent\obj\Debug\netcoreapp3.1\akaSensorAgent.csproj.CoreCompileInputs.cache
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensorAgent\obj\Debug\netcoreapp3.1\akaSensorAgent.csproj.CopyComplete
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensorAgent\obj\Debug\netcoreapp3.1\akaSensorAgent.dll
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensorAgent\obj\Debug\netcoreapp3.1\akaSensorAgent.pdb
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaSensorAgent\obj\Debug\netcoreapp3.1\akaSensorAgent.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "akaSensorAgent": {
+      "commandName": "Project",
+      "commandLineArgs": "-debug",
+      "nativeDebugging": true
+    }
+  }
+}

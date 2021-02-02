@@ -1,0 +1,10 @@
+x64\Win32.UtilModule.dll
+x86\Win32.UtilModule.dll
+aka.Transport.dll
+akaCommon.dll
+akaFocus.Monitor.dll
+akaFocus.Monitor.exe
+akaSensor.Windows.dll
+akaSensorAgent.dll
+akaSensorAgent.exe
+akaSensorAgent.dll.config

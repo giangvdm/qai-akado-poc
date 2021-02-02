@@ -1,0 +1,11 @@
+﻿<Project>
+
+	<PropertyGroup>
+		<Version>1.1.0</Version>
+		<AssemblyVersion>1.1.0</AssemblyVersion>
+		<Authors>FPT Software</Authors>
+		<Company>FPT Software Company Limited</Company>
+		<Product>Aka Focus Agent</Product>
+	</PropertyGroup>
+
+</Project>

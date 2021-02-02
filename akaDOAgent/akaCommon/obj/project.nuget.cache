@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/C9BrqhU6Wezm3xcIgfcIGMxyEBxvz4iKPd1tYK9JmE3lZgeJEPT/yeSmn+RYgOVfrGpvjIwC4gd8RPyS2L8g==",
+  "success": true,
+  "projectFilePath": "D:\\QAI\\TPbank\\qaitpbakado\\akaDOAgent\\akaCommon\\akaCommon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kiyos\\.nuget\\packages\\microsoft.data.sqlite\\3.1.9\\microsoft.data.sqlite.3.1.9.nupkg.sha512",
+    "C:\\Users\\kiyos\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.9\\microsoft.data.sqlite.core.3.1.9.nupkg.sha512",
+    "C:\\Users\\kiyos\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kiyos\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kiyos\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\kiyos\\.nuget\\packages\\nlog\\4.7.5\\nlog.4.7.5.nupkg.sha512",
+    "C:\\Users\\kiyos\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.2\\sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
+    "C:\\Users\\kiyos\\.nuget\\packages\\sqlitepclraw.core\\2.0.2\\sqlitepclraw.core.2.0.2.nupkg.sha512",
+    "C:\\Users\\kiyos\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.2\\sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
+    "C:\\Users\\kiyos\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.2\\sqlitepclraw.provider.e_sqlite3.2.0.2.nupkg.sha512",
+    "C:\\Users\\kiyos\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\kiyos\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\kiyos\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\kiyos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

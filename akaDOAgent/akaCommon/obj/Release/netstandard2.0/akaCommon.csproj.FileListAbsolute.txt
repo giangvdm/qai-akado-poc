@@ -1,0 +1,9 @@
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Release\netstandard2.0\akaCommon.deps.json
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Release\netstandard2.0\akaCommon.dll
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\bin\Release\netstandard2.0\akaCommon.pdb
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaCommon\obj\Release\netstandard2.0\akaCommon.csprojAssemblyReference.cache
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaCommon\obj\Release\netstandard2.0\akaCommon.AssemblyInfoInputs.cache
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaCommon\obj\Release\netstandard2.0\akaCommon.AssemblyInfo.cs
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaCommon\obj\Release\netstandard2.0\akaCommon.csproj.CoreCompileInputs.cache
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaCommon\obj\Release\netstandard2.0\akaCommon.dll
+D:\FPT.QAI\qaitpbakado-developAgent\qaitpbakado-developAgent\akaDOagent\Src\akaCommon\obj\Release\netstandard2.0\akaCommon.pdb
